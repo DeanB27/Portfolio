@@ -119,7 +119,7 @@
             </div>
             <p class="job-period">April 2023 - March 2024</p>
             <ul class="job-description">
-              <li>Apprenticing and working on software applications aswell as motorsport wire harnesses for customer vehicles. 
+              <li>Apprenticing and working on software applications as well as motorsport wire harnesses for customer vehicles. 
                 Have experienced race day work at NASCAR and NASA races for company and private teams.</li>
               <li>Wire Harness Applications include:
                 <ul><li>Lotus Exige Full Design and Creation of entire chassis, accessory, and engine harness, including calibration and software implementation with ECUMaster ECU and PDM.</li>
