@@ -218,7 +218,7 @@
                 <span class="project-tag">Git</span>
                 </div>
                 <!-- Update project URL -->
-                <a href="https://vibify.streamlit.app" class="project-link">
+                <a href="https://github.com/ianmccourt/GVSU-CIS350-BigDataGuys" class="project-link">
                 View Project
                 <font-awesome-icon :icon="['fas', 'external-link-alt']" />
                 </a>
